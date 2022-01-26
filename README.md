@@ -1,0 +1,4 @@
+- 👋 Hola, Soy Aarón;
+- 👀 Me interesa y gusta los deportes como parkour y todo lo que tenga que ver con la informatica y la cocina;
+- 🌱 Actualmente estoy aprendiendo TypeScript y un poco de JavaScript;
+- 💞️ Actualmente, dado mi nivel, no puedo ayudar en mucha cosa, pero me encantaría aprender todo lo que pueda;
